@@ -74,12 +74,6 @@ Once the server is running, you can connect to it using a **Telnet** client or a
 - **Email Storage**: Integrating a database or file system for storing and retrieving emails.
 - **Error Handling Improvements**: Enhanced error messages and logging.
 
-## Contributing
-Feel free to open issues or submit pull requests if you'd like to contribute to the project.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Connect with Me
